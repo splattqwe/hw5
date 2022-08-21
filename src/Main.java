@@ -14,6 +14,10 @@ public class Main {
         int [] e = {10,20,30};
 // задание 2
         for (int i = 0; i < q.length; i++) {
-            System.out.print(q[i]+ ",");{
-            for (float a = 0; a < w.length; a++) {
-                System.out.print(w[a]);}}}}}
+            System.out.print(q[i]+ ",");}
+        System.out.println();
+        {
+            for (int a = 0; a < w.length; a++) {
+                System.out.print(w[a] + ",");
+            }}}}
+
