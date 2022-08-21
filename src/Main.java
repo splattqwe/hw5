@@ -18,6 +18,10 @@ public class Main {
         System.out.println();
         {
             for (int a = 0; a < w.length; a++) {
-                System.out.print(w[a] + ",");
+                System.out.print(w[a] + ",");}
+            System.out.println();
+            for (int s = 0; s <e.length ; s++) {
+                System.out.print(e[s]+"," );
+
             }}}}
 
